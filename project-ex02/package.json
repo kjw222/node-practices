@@ -1,0 +1,15 @@
+{
+  "name": "project-ex02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "douzone-jw222-math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "douzone-jw222-math": "file:../douzone-jw222-math"
+  }
+}
